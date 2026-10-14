@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "com.mjdppps.jiaxing.schedule",
+  "versionCode": 46,
+  "versionName": "0.1.12-jiaxing",
+  "changelog": "接通应用内更新；保留今日列和移动时间线，不显示额外实时时钟。此前旧版需要先手动覆盖安装本版一次。",
+  "downloadUrl": "https://github.com/ll9999345/jige-timetable-releases/releases/download/v0.1.12/jige-timetable-v0.1.12.apk",
+  "sha256": "dce06e218a21f6e29da691f2daf9476471e3f0f39ba6960b0144f4ad780d7577",
+  "sizeBytes": 3984491
+}
