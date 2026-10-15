@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.mjdppps.jiaxing.schedule",
-  "versionCode": 46,
-  "versionName": "0.1.12-jiaxing",
-  "changelog": "接通应用内更新；保留今日列和移动时间线，不显示额外实时时钟。此前旧版需要先手动覆盖安装本版一次。",
-  "downloadUrl": "https://github.com/ll9999345/jige-timetable-releases/releases/download/v0.1.12/jige-timetable-v0.1.12.apk",
-  "sha256": "dce06e218a21f6e29da691f2daf9476471e3f0f39ba6960b0144f4ad780d7577",
+  "versionCode": 47,
+  "versionName": "0.1.13-jiaxing",
+  "changelog": "仅保留当天日期与当前节数两个同款圆角矩形；移除时间横线、圆点、整行及整列高光，避免遮挡教学楼信息。保留课程数据和应用内更新，请覆盖安装，不要先卸载。",
+  "downloadUrl": "https://github.com/ll9999345/jige-timetable-releases/releases/download/v0.1.13/jige-timetable-v0.1.13.apk",
+  "sha256": "f91f9ce22e7506255861d2b296d9caa5b22e92a88acc2495fab6ac1b860a76b9",
   "sizeBytes": 3984491
 }
